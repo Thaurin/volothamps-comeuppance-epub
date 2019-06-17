@@ -1,6 +1,8 @@
 ---
 title: Volothamp's Comeuppance
 author: Six of Spade
+contributor: Thaurin
+description: A comprehensive, spoiler-free guide to Baldur's Gate
 language: en-US
 cover-image: cover.png
 ...
