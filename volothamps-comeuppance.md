@@ -1,7 +1,13 @@
-% Volothamp's Comeuppance
-% A Comprehensive, Spoiler-Free Guide to Baldur's Gate
+---
+title: Volothamp's Comeuppance
+author: Six of Spade
+language: en-US
+cover-image: cover.png
+...
 
-# Six of Spades's Guide to the Game of Baldur's Gate
+# A Comprehensive, Spoiler-Free Guide to Baldur's Gate
+
+## Six of Spades's Guide to the Game of Baldur's Gate
 
 (The whole series; from Baldur's Gate I through Throne of Bhaal)
 
@@ -77,7 +83,7 @@ Anyway, that's enough blather. Here's the site's Table of Contents.
 
  Appendix D: Credits
 
-## Chapter 1: The Spirit of the Game
+# Chapter 1: The Spirit of the Game
 
  Unlike some Role-Playing Games, which are arranged so that the protagonist is always the same
 character (with the same name, appearance, abilities, & so on), in Baldur's Gate you build the protagonist from the ground up, with traits that *you* select. This
@@ -167,7 +173,7 @@ are also several online BG communities, both for simply playing the game and for
 terribly difficult, and even those who don't make mods themselves can offer feedback and make suggestions. Despite having been commercially "dead" for quite some time, the
 game itself is still around, and still evolving—even when you think you've seen it all, somebody else comes around the corner with an entirely new wrinkle.
 
-### Q: You don't seem to be mentioning the game of Baldur's Gate: Dark Alliance at all. Isn't it part of the same series?
+## Q: You don't seem to be mentioning the game of Baldur's Gate: Dark Alliance at all. Isn't it part of the same series?
 
  A: Hell no.** BG: Dark Alliance does in fact start off in the city of Baldur's Gate, and you do play a sword-&-sorcery adventurer who goes
 on quests and kills monsters and stuff . . . but the similarities pretty much end there. The two sets of games were made and released by entirely different companies, and
@@ -176,7 +182,7 @@ party of up to 5 other NPCs to aid you in your journey, BG:DA lets you choose be
 even sure it's based on D&D rules. BG:DA is, essentially, Gauntlet by another name, they simply called it Baldur's Gate to cash in on BioWare's success, and to confuse
 people into thinking that their game was actually good.
 
-## Chapter 2: A Glossary of technical terms to know
+# Chapter 2: A Glossary of technical terms to know
 
 Here are the definitions / explanations of some commonly-used terms used to describe aspects of the game; both within the game itself and by people talking about the game.
 
@@ -573,7 +579,7 @@ creatures capable of Vorpal hits should be handled with extreme caution.
 
 **Waylay:** See Random Encounter.
 
-## Chapter 3: If this is Your First Game
+# Chapter 3: If this is Your First Game
 
  If you truly are new to the game of either BG1 or BG2 (or perhaps even both), then you are in a rare and very enviable position: Almost *all* experienced players wish that they could erase all their memories of the game, solely to play it through all over again and experience each new major battle and plot twist as if it were for the first time.
     This is pretty much your ONLY chance to play the game for ***yourself***: All future runs will be colored, for better or for worse, by your metagaming knowledge of your first game, and very likely from people online telling you things that you actually don't need (and likely don't even *want*) to know. Therefore, treat your first game as something special, because it
@@ -690,7 +696,7 @@ Install items strictly in the following order:
 
     9) In BG1, going to your Inventory screen automatically **un-**Pauses the game, making switching weapons in the middle of a fight potentially a very hazardous process. In BG2, opening up your Inventory automatically **Pauses** the game.
 
-## Chapter 4: Character Creation
+# Chapter 4: Character Creation
 
  One of the most important facets of D&D / BG is the ability to create the character you will "inhabit" for the course of the game. There are dozens of options available to you, which when combined allow for a spectrum of
         literally ***billions*** of possible characters. The Character Creation process itself can be deceptively simple: Choose what race you want to be, pick a class to play, select an alignment, roll a decent set of stats, put some proficiency
@@ -819,12 +825,12 @@ If any one of these criteria are not met, the game immediately rolls another 6 s
         stats. In PnP, you rolled your stats first, and they determined what class(es) you could be; if you didn't roll at least 12 WIS and 15 CHA, you couldn't be a Druid. This acted as a restrictor on being able to play powerful classes like the Ranger and
         Paladin. In BG, however, all you have to do is select a Ranger, and you're practically *guaranteed* to get good stats on every roll.
 
-### Q: "If I roll 3D6, that gives a point spread of 3 to 18. So how do I get a 19, for stats like a Half-Orc's Strength? Do I have to take a point out of some other stat, and move it into STR?"
+## Q: "If I roll 3D6, that gives a point spread of 3 to 18. So how do I get a 19, for stats like a Half-Orc's Strength? Do I have to take a point out of some other stat, and move it into STR?"
 
  A: No.** A normal 3D6 dice
         roll is 3 through 18, yes, but do you see how a Half-Orc's Strength range is 4 through 19? That's just a regular 3D6 roll, with a +1 modifier tacked on. I've already included all the modifiers in the table above, so you don't have to worry about them.
 
-### Character Creation — Proficiencies
+## Character Creation — Proficiencies
 
  Proficiencies can be assigned to various weapons and, in BG2, Weapon Styles as well. They represent the amount of time and effort you have spent in training with the selected weapon (style), or at
         least they're meant to: You can pour 5 proficiency points into Mace, even though you've never used any weapon but a Halberd, so that the first time you ever pick up a Mace, you're already a Grandmaster with it. Okay, so the system can be abused, there's
@@ -927,7 +933,7 @@ If any one of these criteria are not met, the game immediately rolls another 6 s
         you were Improved Hasted, your ApR would double, and you would now attack Mace, Mace, Mace, Dagger, Mace, Mace, Mace, Dagger, every round. Your overall Speed Factor is determined by the weapon in your on-hand, not your offhand; the number of proficiency
         points invested in your offhand is actually irrelevant, the game only uses your proficiency with your on-hand weapon when determining combat bonuses. (You should still have at least 1 proficiency point in your offhand weapon, though, even if just for the sake of realism.)
 
-### Character Creation — Alignment
+## Character Creation — Alignment
 
  Your Alignment is a representation of your overall personality and outlook on life. It is determined by your (character's) standing on two axes: The Good-Evil axis and the Lawful-Chaotic axis. Each axis
         has 3 positions, and when combined, the axes delineate a set of nine alignments, as shown to the right. One's Alignment is pretty much the only "stat" that is almost entirely subjective and open to interpretation: It is not a box to put you in, but rather a tool to help you
@@ -957,7 +963,7 @@ If any one of these criteria are not met, the game immediately rolls another 6 s
         Meanwhile, a Lawful Evil person will build a case of "evidence" against his enemies until the authorities give him a free hand (or even assistance) to execute those who got in his way. There are also *more* alignments than just the basic nine, but these are
         more vague and they don't even have names, just things like "Neutral Good with Lawful tendencies" and "Chaotic Neutral with Evil tendencies." But really, as long as you're roleplaying a character who is morally realistic, it's all good.
 
-## Chapter 5: Running a Party and Combat
+# Chapter 5: Running a Party and Combat
 
  Just as Chapter 4 exhaustively covered all possible options open to you in Character creation, in this chapter I'll be discussing the basics of directing the *other* 5 party members: Selecting NPCs to accompany you, keeping those NPCs happy,
             controlling the positional arrangement of your party members, managing their equipment, etc. The second half of this chapter is given to a brief overview, including some fundamental tactics, of what many people think the Baldur's Gate saga is all about: Fighting.
@@ -1243,7 +1249,7 @@ If any one of these criteria are not met, the game immediately rolls another 6 s
             Healing Potions at all times, just in case. They should drink one (or recieve a Healing spell) whenever their health falls below 50%, **OR** they are missing enough hitpoints that they would get the full benefit of the potion/spell. When in city areas, it's advisable to
             take advantage of local Temple services, thus saving your own spells and potions for when you're out in the wild and Temples aren't available.
 
-## Chapter 6: Items and their Use
+# Chapter 6: Items and their Use
 
  Naturally, your success in the game depends a great deal on outfitting yourself and your party with proper equipment. This chapter covers armor, shields, weapons, and ammunition in detail (though without
                 describing specific items), discusses the basics of potions, wands, miscellaneous equipped items, and containers, and outlines the various facets of the Inventory screen.
@@ -1408,13 +1414,13 @@ WEAR A HELMET. (Unenchanted) Helmets won't improve your AC one bit, but every ti
                 a planet. As bizarre as it seems, these little twirling rocks will deflect Critical Hits so that they only do their normal amount of damage. There are no Ioun Stones in BG1, which gives those characters who cannot wear helmets yet *another* reason to stay out of the
                 front lines of a battle.
 
-### Q: "What happens if I don't wear any armor at all?"
+## Q: "What happens if I don't wear any armor at all?"
 
  A: You get your ass handed to you.** Unlike some games, where going skyclad improves your ability to dodge, and unlike most fantasy art, which suggests that the power of a sorceress's
                 magic is inversely proportional to the amount of clothing she has on, in BG there's absolutely no reason to go berserking into battle in the nude. The obvious exceptions are the Kensai, Monk, and
                 Shapeshifter, who get their AC from natural sources.
 
-### Q: "Will the same suit of armor fit any character, no matter what race they are?"
+## Q: "Will the same suit of armor fit any character, no matter what race they are?"
 
  A: Yes.** In PnP, magical armor resizes itself to fit the wearer, and for the sake of convenience the BG games treat *all* armor in this fashion. So
                 your Halfling can remove his Full Plate and toss it to your Half-Orc, who fits into it just fine.
@@ -1522,7 +1528,7 @@ Rangers, Bards. Grants +2 Damage.
                 forged before the iron crisis hit, and therefore were made of good, sound steel. It is *extremely* important that all of your party members either carry spare weapons, or simply not use any breakable weapons at all. Armor, even nonmagical metal armor, is happily (but oddly) unaffected by the iron
                 crisis. In BG2, the crisis is over, & Normal weapons are once again trustworthy.
 
-### Q: "What happens if I don't use any weapon at all?"
+## Q: "What happens if I don't use any weapon at all?"
 
  A: You get your ass handed to you.** If you go into combat emptyhanded you've got three big disadvantages (none of which apply to the Monk):
 
@@ -1534,7 +1540,7 @@ Rangers, Bards. Grants +2 Damage.
   don't want the Reputation penalty that comes from killing an innocent? Just sheathe your sword and beat the crap out of him until your honor is
   avenged.
 
-### Q: "My Cavalier can't use Slings, Bows, or Crossbows, so why can he carry Bullets, Arrows and Bolts?"
+## Q: "My Cavalier can't use Slings, Bows, or Crossbows, so why can he carry Bullets, Arrows and Bolts?"
 
  A: Because he still has a Quiver.** Just because he prefers to fight only in melee combat doesn't mean he can't carry a little extra ammunition for when his friends
                 are running low.
@@ -1621,22 +1627,22 @@ Rangers, Bards. Grants +2 Damage.
                 A creature's body (and everything on it) will be shattered by: Losing one's last few hitpoints to Cold damage, being Petrified and then taking damage, or being Disintegrated. Only gold, and certain specific quest items, are exempt from being destroyed. You will also not recieve any
                 loot if you trap a foe with an Imprisonment spell: The items are still being carried by the enemy, who is technically still alive.
 
-### Q: "This item in my Inventory is shaded red. What does that mean?"
+## Q: "This item in my Inventory is shaded red. What does that mean?"
 
  A: It means you can't use it.** Either because your basic stats (usually Strength) are insufficient, or you're of a class / kit / alignment / race that isn't allowed to use the item. If an item is
                 shaded *blue*, however, that means that the item is magical, and Unidentified.
 
-### Q: "I just found a note that says something about a chair having arms and legs. What the heck am I supposed to do with it?"
+## Q: "I just found a note that says something about a chair having arms and legs. What the heck am I supposed to do with it?"
 
  A: Sell it.** This is just a weird item that, for some reason, can sometimes get dropped as random treasure. It has absolutely no purpose in the
                 game, but at least it's worth a couple of bucks. Just don't ask me *why* anyone would pay good money for it.
 
-### Q: "I just found an empty potion bottle. What the heck am I supposed to do with it?"
+## Q: "I just found an empty potion bottle. What the heck am I supposed to do with it?"
 
  A: That depends on which game you're in. If you're still in the SoA portion of BG2, those are just there for flavor: Apparently somebody thought it would be more realistic to have the physical evidence of your enemies drinking potions in combat, just like you do, but then
                 they only implemented this idea for one solitary fight. The empty bottles are useless, ignore them. Then again, if you've progressed all the way to ToB, that empty bottle is indeed used for something, in fact it's impossible to continue down the Main Plot without it. Hold on to it.
 
-### Q: "So . . . where can I stash my stuff?"
+## Q: "So . . . where can I stash my stuff?"
 
  A: In any Container(s) you want.** Items (except certain specific "quest" items) left lying on the ground will disappear after about 24 hours, but objects placed in containers such as chests, barrels, crates, etc., will stay
                 there forever. So just find a nice unoccupied spot (possibly one that *used* to be occupied until you killed everybody) and move in. Be *sure* to avoid leaving wanted items in areas to which you will be unable to return, and in areas where the map can change: If you leave items in the *old*
@@ -1647,7 +1653,7 @@ Rangers, Bards. Grants +2 Damage.
                 worn as a Belt) as well. Another convenience tweak offered in BG2 is doubling the amount of (most types of) ammunition that can be stored in a single Inventory slot. You may have noticed that in both Inventory screenshots above, the character was carrying 120 Arrows, but in BG1 only 60 of them would fit in
                 her Quiver, the rest had to go down in her Backpack.
 
-## Chapter 7: Spells
+# Chapter 7: Spells
 
  Magic spells can be very powerful things, quite often determining the outcome of a battle, and some encounters consist of nothing **but** spells. Magic is fairly simple and easy to understand in BG1, but once you hit BG2 there is considerable increase in both the number and variety of available spells, especially for Wizards.
                     This chapter should help you make sense out of things and figure out why your Warriors just can't seem to kill that Mage. The exact specifics of spells aren't listed here, this chapter is more about general knowledge of spells, what they do, and how (not) to use them. The only way to *truly* understand spells is to understand the workings of each
@@ -1799,7 +1805,7 @@ Rangers, Bards. Grants +2 Damage.
                     Anyway, when rolling a Save, the game checks two numbers: One is your (or the target's) personal Save score, and the other is a roll of 1D20. If the die roll is *equal to or higher than* the target's personal Save value, the target has successfully rolled the Save. The lower your personal Saving Throws are, the easier it will be for the die roll to be
                     higher than them.
 
-### Q: "My Mage is being attacked in combat! What should I do?"
+## Q: "My Mage is being attacked in combat! What should I do?"
 
  A: That's what Combat Protections are for.**
                     If you're up against low-level archers, the spell Protection from Normal Missiles would fit the bill very nicely, granting you complete immunity for quite a long time. If your enemies prefer to melee, Protection from Normal Weapons and the Mantle
@@ -1807,7 +1813,7 @@ Rangers, Bards. Grants +2 Damage.
                     that the weapon might have will still get through. Finally, the big daddy of combat protections, Protection from Magical Weapons, will render you briefly invulnerable to ALL weapons except Normal ones. PfMW may not be stacked with PfNW or either of the Mantle spells, but it *can* be stacked with Protection from Normal Missiles,
                     and it also may be cast by creatures who are naturally immune to Normal weapons洋aking those creatures briefly untouchable by ANY weapons whatsoever.
 
-### Q: "This high-level spellcaster is kicking my ass! What should I do?"
+## Q: "This high-level spellcaster is kicking my ass! What should I do?"
 
  A: That's what high-level spellcasters do.**
                     In BG1, Mages (at least pureclassed Mages) are almost more of a dead weight to the party than anything else, but in BG2 they become powerhouses, at least for brief fights預nd as *all* fights are brief (at least from the enemy's point of view, as they only have to win ONE battle,
@@ -1821,12 +1827,12 @@ Rangers, Bards. Grants +2 Damage.
  If your party *is* able to target spells at the Wizard, but they either have no effect or they come shooting right back at you, that's because he's using Spell Protections. Either bring down those protections with spells like Pierce Magic (which will fail if he's also protected by
                     Spell Immunity: Abjuration), wait his protections out, or you guessed it, get creative.
 
-## Chapter 8: Enemies
+# Chapter 8: Enemies
 
  This chapter gives brief descriptions of the behavior and notable qualities of most types of creatures you are likely to encounter in the game—most of which will try to kill you. Not **all** potential enemies are listed here, and I try not to reveal **too** much about certain creatures, because in some cases that would be too much like telling you precisely how to defeat them. This list is confined to *racial* traits & behavior, so creatures defined primarily by their
                         character *class* (such as Thief or Mage) are omitted. Creatures are listed here in *roughly* their order of difficulty, from easiest to most difficult. While BG2 was designed and built on the rules of Advanced Dungeons & Dragons, it does not always adhere to the canon lore of AD&D, especially when the source material itself changes from edition to edition (BG is mostly a mish-mash of Editions 2.0 and 3.5). In areas where BG and canon AD&D disagree, I tell things the way you're likely to encounter them in-game.
 
-### Gibberlings / Tasloi / Xvarts / Kobolds / Goblins
+## Gibberlings / Tasloi / Xvarts / Kobolds / Goblins
 
  These creatures, though completely unrelated, are usually grouped together because of their small size and their shared status of "roadkill" enemies: In general, you'll steamroll right over them almost without even noticing. Only Kobolds and Goblins carry ranged weapons, and Gibberlings use no weapons at all, as they're little more than feral beasts. All of them live (and hunt) in groups. Packs of Kobolds are sometimes supplemented by a Shaman or other low-level spellcaster. All types can be encountered in just about any terrain, although Gibberlings, Xvarts, and especially Tasloi prefer to live in forests, grasslands, and hilly areas, while Kobolds and Goblins more frequently dwell underground.
 
@@ -2072,7 +2078,7 @@ Rangers, Bards. Grants +2 Damage.
 
  Many types of Draconic creatures exist, such as Wyverns, Dragon Turtles, Elemental Drakes, and Landwyrms. Most of these lack breath weapons, several classes of them are wingless, and they are usually less intelligent than true Dragons. While true Dragons are of all alignments, almost all of the lesser creatures of Dragonkind are either Neutral or Evil—mostly Evil.
 
-## Chapter 9: Spoiler-Free "Walkthrough"
+# Chapter 9: Spoiler-Free "Walkthrough"
 
 **Skip ahead to the section on ToSC
 Skip ahead to the BG2 section
@@ -2302,7 +2308,7 @@ Skip ahead to the BG2 section
 
 Enjoy your game.
 
-## Chapter 10: Powergaming vs. Roleplaying
+# Chapter 10: Powergaming vs. Roleplaying
 
  There is, in a sense, a continuum of gameplay attitudes, and all RPG players fall somewhere along its line.
 
@@ -2494,7 +2500,7 @@ Enjoy your game.
                                     realism. When that happens, you will either complain about why the game won't let you do a certain thing (insert creative idea, like using your Halfling Fighter as a thrown weapon, here), or more likely you'll be faced with a choice: Whether to be a cheesy
                                     powergamer, or an uptight roleplayer. It's *your* game—play it however you want.
 
-## Chapter 11: Cheating & File Manipulation
+# Chapter 11: Cheating & File Manipulation
 
  Just about every kind of video game has cheats built into it, and Baldur's Gate is no exception用articularly since it's been out for more than 10 years, so it's
                                         only natural that its workings would have been thoroughly figured out by now. There are a few basic reasons to cheat:
@@ -2540,7 +2546,7 @@ Enjoy your game.
                                         data files and straighten out the Druid's funky EXP progression, or make Mages get 5 Lore per level instead of 3. Of course, changes at these levels sort of stop being *cheats* and start becoming more
                                         like *mods*, which is more appropriate for the next chapter, so let's ramp it back down to cheating.
 
-### Q: "What can I change about my character?"
+## Q: "What can I change about my character?"
 
  A: Pretty much anything you see in the Records screen.** Your Race, Class, Kit, Gender, hitpoints, proficiency points, etc.
                                         There are some limits, determined by the hardcoded settings of the game, but those are few. If you don't like being an Illusionist and would rather be an Enchanter instead, you can do that (and yes, the
@@ -2549,7 +2555,7 @@ Enjoy your game.
                                         *more* than one kit on any one character, though. Also, you can hack illegal equipment onto your characters (like making a Wizard Slayer wear magical rings & the like), but these illegal items will
                                         automatically be kicked down into the character's Backpack the next time he Levels Up.
 
-### Q: "What can I change about the game I'm currently playing?"
+## Q: "What can I change about the game I'm currently playing?"
 
  A: Again, pretty much anything.** Rather than repeat myself, I'll just direct you to the next section down
                                         this page (the *how* of cheating) for a list of **some** of the things that can be done. As far as major things that you *can't* do, the only one that comes to mind is hacking in the recruitable
@@ -2557,7 +2563,7 @@ Enjoy your game.
                                         one major map area to another, the game immediately crashes. (That's what happens in BG1, at least.) The only safe way to cheat in party members is to teleport yourself to their
                                         location, recruit the *real* one, and then teleport back. Hacking in barnyard animals to get revenge on snotty Nobles, however, works just fine.
 
-### Q: "What can I change about creatures, items & spells?"
+## Q: "What can I change about creatures, items & spells?"
 
  A: Once again, pretty much anything . . . but be careful.** Editing characters in your party and hacking items &
                                         spells into your game will only affect *that one game*, but if you start messing with actual files you could potentially screw up *every* game of BG you play from then on. Happily, the editing
@@ -2566,14 +2572,14 @@ Enjoy your game.
                                         Monks can use, the computer will look for the *.BAM files that show a 1-handed Crossbow, or a Wolf casting a spell, or a Monk holding a 2-handed weapon . . . and when it fails to find them, the game
                                         will crash.
 
-### Q: "What can I change about core game files?"
+## Q: "What can I change about core game files?"
 
  A: See the previous answer, only more so.** There are a few things that can't be done, like altering the effects of various
                                         levels of proficiency in the Weapon Styles, or the levels/effects of Turn Undead, or the bottom-row buttons in the main game screen, because these things are hardcoded directly into the game engine. But by &
                                         large, you can do quite a lot . . . change or remove the EXP caps, alter the Experience levels of the various NPCs when you recruit them, mess with what items get dropped as random treasure, change the
                                         behavior of enemies, edit entire kits, etc.
 
-### Q: "What can I change about the game engine itself?"
+## Q: "What can I change about the game engine itself?"
 
  A: Go away.** Seriously, while it technically *is* possible to decompile BALDUR.EXE and tweak the source code,
                                         it is both very complicated and very risky. Unless you're absolutely fluent in Assembly language and can multiply in hexadecimal in your head, don't even think about going here.
@@ -2741,7 +2747,7 @@ game's text window. GLOBAL may also be replaced with LOCALS or
                                         you've played through the game (or at least that section of it) a couple of times, you'll have learned what's correct and what's not. Remember, I list some "this container cannot be opened by any means"
                                         and "this door is barred from the other side" in my Walkthrough. You'd better check to make sure your "bug" isn't one of those.
 
-### Q: "Is (**description of in-game behavior here**) a bug?"
+## Q: "Is (**description of in-game behavior here**) a bug?"
 
  A: Probably not.** Bugs are more likely to occur in BG2 (because it was rushed
                                         through production much more hastily than BG1), but that's why the G3 Fixpack (and its predecessor, BaldurDash) is so thorough. *Most* bugs that *can* be fixed *have* been fixed. Still, you
@@ -2751,7 +2757,7 @@ game's text window. GLOBAL may also be replaced with LOCALS or
                                         the game and call in the Keeper. When you hit what you think is a bug, your first reaction should be to **Reload and try it again.** 9 times out of 10, the situation will function normally. It's a
                                         "no-problem" problem, my very favorite kind.
 
-### Q: "Through my many previous playthroughs of the game and my knowledge of its mechanics, I am absolutely certain that (**in-game behavior**) is a bug. What should I do?"
+## Q: "Through my many previous playthroughs of the game and my knowledge of its mechanics, I am absolutely certain that (**in-game behavior**) is a bug. What should I do?"
 
  A: Use cheats to re-create the correct game behavior as closely as possible.** For example, suppose that there's a door you have to open, and in spite of your having
                                         done everything perfectly correctly, that door just *refuses* to open. If Reloading doesn't fix it, and the door is controlled by a variable, you should Save, and try using the appropriate Keeper to
@@ -2764,7 +2770,7 @@ game's text window. GLOBAL may also be replaced with LOCALS or
                                         filenames (BOB01, PPBOB, C6BOB, etc.), so you may need to make many attempts to CLUA in the correct預nd *only* the correct要ersion, otherwise you may compound the problem by using cheats to
                                         affect portions of the game that you shouldn't legally be even able to get to yet.
 
-## Chapter 12: Mods & Modding
+# Chapter 12: Mods & Modding
 
  "Mod" is short for "modification," and like more & more nouns these days, it is also a verb. To date, there are dozens of modders who have collectively produced hundreds of mods, a total which continues to rise.
                                             It is the aspect of modding that has preserved the games of Baldur's Gate so far beyond their expected shelf lives; no matter how old the game is, there is always another mod to try. Some mods are very small, something as simple as a single
@@ -2930,7 +2936,7 @@ Now, the install order ***with mods*:
 If you're playing BG1 through Tutu, follow the directions in the Tutu README. You will need a *Full* install of your entire BG1 game, plus at least a Recommended install of BG2:SoA. You must not install any mods that overwrite the
 DIALOG.TLK file (read: most large non-WeiDU mods) after running the Tutu conversion.
 
-### Baldur's Gate 2 / ToB
+## Baldur's Gate 2 / ToB
 
  1) Baldur's Gate 2 : Shadows of Amn
 
@@ -2950,7 +2956,7 @@ DIALOG.TLK file (read: most large non-WeiDU mods) after running the Tutu convers
   before Kelsey should be installed before Keto. Banters & Flirts should be installed after all mod NPCs. All of these mods should be installed close to
   last: Ashes of Embers, BG2 Refinements, Divine Remix, and the G3 Tweak Pack. Virtue is always installed dead last.
 
-### Making a Clean Backup
+## Making a Clean Backup
 
  In the event that you encounter a mod conflict that uninstalling can't fix, or you accidentally delete/alter something critical, or if you just want to start over with a clean slate, making an unaltered backup
                                             of certain game files saves you the time/bother of uninstalling & reinstalling the whole game. It's also handy when you're writing mods, and your brain explodes so that you can no longer remember whether or not Component X of your mod can
@@ -2989,7 +2995,7 @@ TO RESTORE A CLEAN INSTALL
 
  5) Your game should now be restored to its original state.
 
-### Making Your Own Mods
+## Making Your Own Mods
 
  So, you've decided to spend many hours of your free time learning how to spend *more* hours of your free time making modifications to an unpopular game that's over 10 years old. You will assuredly
                                             never see a penny from your labors, in fact the only reward you could possibly gain is the praise & kudos of we unfortunates who are now your peers. Congratulations, you're insane. How's it feel? But don't worry—at least you're in good
@@ -3064,7 +3070,7 @@ TO RESTORE A CLEAN INSTALL
 
                                             13) Don't ask me for modding help, or even advice. I am not an experienced modder, and most of what advice I have to give is summed up in this list.
 
-## Appendix A: Tables
+# Appendix A: Tables
 
                                             The table of which races can be which classes
 
@@ -3113,7 +3119,7 @@ TO RESTORE A CLEAN INSTALL
 
                                             Wand prices in BG1
 
-## Appendix B: Background Knowledge
+# Appendix B: Background Knowledge
 
  This Appendix is filled with the kind of information that, although it may not be of any real *use* to you in the game world (reading this stuff won't win any battles for
                                                 you), it would certainly be known (or at least available) to your party members, if not your own character. This stuff is common knowledge throughout the Realms, and is presented here to help make your trip
@@ -3400,7 +3406,7 @@ THEOLOGY
 
  entering and leaving the harbors of Waterdeep and Baldur's Gate.
 
-### 1351 - Year of the Crown
+## 1351 - Year of the Crown
 
 » The thief Regis steals Pasha Pook's magical ruby, and flees Calimport to Ten Towns. Akar Kessel begins working with the Silver Shard on Kelvin's Cairn.
 
@@ -4363,7 +4369,7 @@ Come 'morrow, the blessed sun will rise/
                                                 barbarians refer to the Aurora Borealis by such a colloquial term, but it is far more likely to refer to Talos, the Stormstar, as Alaundo uses the name in other prophecies. The tapestry is thought to refer to the magical Weave, though it appears to be unique to this prediction as a metaphor for magical energy. Most interesting to some, perhaps, is the King and the five retainers. The king may likely be another reference to Talos, and it is thought that the five troops may be five servitor gods. As
                                                 Talos is one of the most prolific (as well as oldest) of the gods as far as promoting mortals to such divine status, there is a certain cause for alarm to be taken from the passage. Currently it is believed that Talos does have five gods in his service, but certain sages knowledgeable about such things tend to discount Malyk for varying reasons.
 
-## Appendix C: Links
+# Appendix C: Links
 
  I don't expect this page to be updated anywhere near as frequently as the main list of all links and mods, located here.
                                                     So if there's a problem with any of these links, I would suggest trying the main modlist. All of the links below (in fact, *all* the links out of this site) open new windows, so you may need to turn off
@@ -4525,7 +4531,7 @@ Come 'morrow, the blessed sun will rise/
  Volothamp's Comeuppance: The front page, again, but without that left-hand navigation bar (which is invisible at 1024x768 anyway).
                                                     You might prefer it if you like seeing the URL of your current page in your browser window, or if you just don't like the sidebar.
 
-## Appendix D: Credits
+# Appendix D: Credits
 
  I've put a lot of myself into this Guide, but it's not all me: Volothamp's Comeuppance would be a lot less complete, and might not
                                                         even exist at all, but for help from outside sources. I'd like to give the following thanks.
